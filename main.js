@@ -1,14 +1,3 @@
-// //localStroge 1 dona obyekt biz unga hohlaganimizcha qiymat saqlashimiz mumkin.
-// let localName = localStorage.getItem("name");
-
-// if(!localName){
-//     const name = prompt("Ismingizni kiriting");
-//     localStorage.setItem("name" , name);
-//     localName = name;
-// }
-
-// console.log("Assalomu alaykum " + localName);
-
 const formELement = document.querySelector(".form");
 const todoNameInputElment = document.querySelector(".todoName");
 const tbodyElement = document.querySelector("#tbody");
